@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Point of sales system**
 
-- 🌱 I’m currently learning **Computer Networks 313, Concurrency 314, Stochastic Methods 322 and finally Combinatorial Optimisation 314**
+- 🌱 I’m currently learning **Software Engineering 344, Webdev/databases 343, Operations Research 344 & 352  **
 
 - 📫 How to reach me **stefan.rus13@gmail.com**
 
