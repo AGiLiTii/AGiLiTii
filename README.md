@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan Russouw</h1>
 <h3 align="center">Software developer/engineer. Studying at Stellenbosch University.</h3>
 
-- 🔭 I’m currently working on **Inventory manager**
+- 🔭 I’m currently working on **Point of sales system**
 
 - 🌱 I’m currently learning **Computer Networks 313, Concurrency 314, Stochastic Methods 322 and finally Combinatorial Optimisation 314**
 
