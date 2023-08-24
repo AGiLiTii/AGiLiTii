@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefan Russouw</h1>
 <h3 align="center">Software developer/engineer. Studying at Stellenbosch University.</h3>
 
-- 🔭 I’m currently working on **Point of sales system**
+- 🔭 I’m currently working on **Music analyzer for Praelexis**
 
-- 🌱 I’m currently learning **Software Engineering 344, Webdev/databases 343, Operations Research 344 & 352  **
+- 🌱 I’m currently learning **Software Engineering 344, Webdev/databases 343, Operations Research 344 & 352**
 
 - 📫 How to reach me **stefan.rus13@gmail.com**
 
